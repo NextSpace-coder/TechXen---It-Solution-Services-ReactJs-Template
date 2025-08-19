@@ -1,21 +1,21 @@
 [
   {
-    "img": "/assets/img/team/team2-img1.png",  
+    "img": "https://images.unsplash.com/photo-1557425631-f132f06f4aa1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMHRlYW0lMjBjb2xsYWJvcmF0aW9uJTIwb2ZmaWNlfGVufDB8fHx8MTc1NTU4Mzk4NXww&ixlib=rb-4.1.0&q=85",  
     "title": "John Doe",
     "desc": "CEO & Founder"
   },
   {
-    "img": "/assets/img/team/team2-img2.png",  
+    "img": "https://images.unsplash.com/photo-1590649880765-91b1956b8276?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwzfHxidXNpbmVzcyUyMHRlYW0lMjBjb2xsYWJvcmF0aW9uJTIwb2ZmaWNlfGVufDB8fHx8MTc1NTU4Mzk4NXww&ixlib=rb-4.1.0&q=85",  
     "title": "Jane Smith",
     "desc": "Chef Technology Officer"
   },
   {
-    "img": "/assets/img/team/team2-img3.png",  
+    "img": "https://images.unsplash.com/photo-1590650589327-3f67c43ad8a2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHw0fHxidXNpbmVzcyUyMHRlYW0lMjBjb2xsYWJvcmF0aW9uJTIwb2ZmaWNlfGVufDB8fHx8MTc1NTU4Mzk4NXww&ixlib=rb-4.1.0&q=85",  
     "title": "Sarah Thompson",
     "desc": "Head of Project Management"
   },  
   {
-    "img": "/assets/img/team/team2-img4.png",  
+    "img": "https://images.unsplash.com/photo-1556565681-306458ef93cd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMHRlYW0lMjBjb2xsYWJvcmF0aW9uJTIwb2ZmaWNlfGVufDB8fHx8MTc1NTU4Mzk4NXww&ixlib=rb-4.1.0&q=85",  
     "title": "David Garcia",
     "desc": "Lead Software Engineer"
   }

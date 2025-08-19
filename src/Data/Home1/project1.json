@@ -1,31 +1,31 @@
 [
   {
-    "img": "/assets/img/work/project-img1.png",   
+    "img": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxfHx3ZWIlMjBhcHBsaWNhdGlvbiUyMGludGVyZmFjZSUyMGRlc2lnbiUyMFVJJTIwVVh8ZW58MHx8fHwxNzU1NTg3Mzg1fDA&ixlib=rb-4.1.0&q=85",   
     "title": "Enterprise Resource Planning Implementation",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img2.png",   
+    "img": "https://images.unsplash.com/photo-1553830591-fddf69c61e88?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwyfHx3ZWIlMjBhcHBsaWNhdGlvbiUyMGludGVyZmFjZSUyMGRlc2lnbiUyMFVJJTIwVVh8ZW58MHx8fHwxNzU1NTg3Mzg1fDA&ixlib=rb-4.1.0&q=85",   
     "title": "Enterprise Resource Planning Implementation",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img3.png",   
+    "img": "https://images.unsplash.com/photo-1670515051709-6cbf0c44f649?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwzfHx3ZWIlMjBhcHBsaWNhdGlvbiUyMGludGVyZmFjZSUyMGRlc2lnbiUyMFVJJTIwVVh8ZW58MHx8fHwxNzU1NTg3Mzg1fDA&ixlib=rb-4.1.0&q=85",   
     "title": "Enterprise Resource Planning Implementation",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img1.png",   
+    "img": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxfHx3ZWIlMjBhcHBsaWNhdGlvbiUyMGludGVyZmFjZSUyMGRlc2lnbiUyMFVJJTIwVVh8ZW58MHx8fHwxNzU1NTg3Mzg1fDA&ixlib=rb-4.1.0&q=85",   
     "title": "Enterprise Resource Planning Implementation",
     "btnName": "Learn More"
   },  
   {
-    "img": "/assets/img/work/project-img2.png",   
+    "img": "https://images.unsplash.com/photo-1553830591-fddf69c61e88?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwyfHx3ZWIlMjBhcHBsaWNhdGlvbiUyMGludGVyZmFjZSUyMGRlc2lnbiUyMFVJJTIwVVh8ZW58MHx8fHwxNzU1NTg3Mzg1fDA&ixlib=rb-4.1.0&q=85",   
     "title": "Enterprise Resource Planning Implementation",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img3.png",   
+    "img": "https://images.unsplash.com/photo-1670515051709-6cbf0c44f649?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwzfHx3ZWIlMjBhcHBsaWNhdGlvbiUyMGludGVyZmFjZSUyMGRlc2lnbiUyMFVJJTIwVVh8ZW58MHx8fHwxNzU1NTg3Mzg1fDA&ixlib=rb-4.1.0&q=85",   
     "title": "Enterprise Resource Planning Implementation",
     "btnName": "Learn More"
   }         
